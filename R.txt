@@ -1,0 +1,5 @@
+git remote add 'gitname' 'giturl'
+
+giturl:
+	use ssh = git@github.com:Crvxksy/InitializationGit.git
+	use http = https://github.com/Crvxksy/InitializationGit.git
